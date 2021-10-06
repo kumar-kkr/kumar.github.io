@@ -1,4 +1,4 @@
-﻿Blessian D Jutike
+﻿kurakula kumar
 Student
 * Details
 * Education
@@ -7,35 +7,35 @@ Student
 Details about me
 
 
-Name: Blessian D Jutike
-Age: 30
-Gender: Female
-Email: blessi000@hmail.com
-Phone_no: 9875555555
-Education
+Name: kurakula kumar
+Age: 22
+Gender: male
+Email: kurakulakumar123@gmali.com
+Address:D NO 1-5/A, Ganduvaripalli(v), B.kothakota(M),Chittoor(D),AP,517370
+Phone_no: 9515196792
+Education Qualifications:
 
 
 
 
 
 
-Cource
-	Name of the institude
-	University
+Qualification
+	Name of the institude/college
+	Passing year
 	Percentage
-	SSCL
-	William Richards High School
-	KSEEB
-	70
-	Diploma
-	Govt Polyechnic Immadihalli
-	DTE
-	68
-	BE
-	New Horizon College
-	VTU
-	60
-	
+	B.TECH(EEE)
+        Sri Krishnadevarya University College of Engineering and Technology,Anantapur
+	2017-2021
+	64
+	INTERMEDIATE
+	Narayana Junior College,Tirupati
+	2015-2017
+	89.6
+	SSC
+	Sri Bhagavan Sai Ram School,B.kothakota
+	2014-2015
+	6.8(CGPA)
 
 
 
@@ -49,20 +49,12 @@ Cource
 
 Technical Skills
 * Java
-* C++
-* HTML
-* CSS
-* JavaScript
-* Angular
+* Basic knowledge in MS office
 * Oracle
 * MySQL
-* Python
-* Manual Testing
-* Automation Testing
-* Data Structures
 Project
 
 
-Role: Team member
-Title: Eye state detection of driver
-Description: Developing intelligent systems to prevent accidents can be bery effective in minimizingaccident death toll. Drivers fatigue is one of the major causes of traffic accidents,particularly for drivers of large vehicles (such as buses and heavy trucks)due to prolonged driving in working conditions. This project detects the signs of fatigue and sleepiness in the face of the person at the time of driving in this model, the person's face is filmed by a camera in the first step by receiving video sequence, the level of drowsiness is detected.
+Role: Team member, Team managing
+Title:Renewable Energy Sources Integration and Control in Railway Microgrid
+ABSTRACT:The traffic rail increase implies an increase in the electric energy consumption.Hybridizing the railway substations with hybrid energy sources base on renewable energy sources and storage units connected to a DC bus may be a solution to contribute to the partial independence of enery producers in the sector of traffic rail
